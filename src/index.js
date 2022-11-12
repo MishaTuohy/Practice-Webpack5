@@ -12,5 +12,5 @@ const elvenGauntletsRecipe = {
     refinedMoonstone: 4,
 }
 
-console.log(elvenShieldRecipe);
+console.log(elvenShieldRecipe + "test");
 console.log(elvenGauntletsRecipe);
